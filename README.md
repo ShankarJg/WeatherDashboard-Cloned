@@ -16,7 +16,5 @@ A simple web application that allows users to search for a city to get the curre
 ## Output
 ![](WeatherDashboard/js/image.png)
 
-## Referred from
-https://github.com/sylviaprabudy
 
 
