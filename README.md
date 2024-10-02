@@ -13,7 +13,10 @@ A simple web application that allows users to search for a city to get the curre
 - Search history will be saved in local storage.
 - This weather daskboard app is mobile compatible.
 
-## Mock-Up
+## Output
 ![](WeatherDashboard/js/image.png)
+
+## Referred from,
+https://github.com/sylviaprabudy
 
 
